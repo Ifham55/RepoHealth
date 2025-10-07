@@ -4,7 +4,7 @@
  * Exemple: node --experimental-strip-types test-github-tools.ts 1904labs dom-to-image-more
  */
 
-import { githubTools } from './lib/github-tools.ts';
+import { githubTools } from './lib/github-tools';
 
 // Récupérer les arguments de la ligne de commande
 const args = process.argv.slice(2);
@@ -89,7 +89,7 @@ async function testTool3_RecentActivity() {
     
     if (data.recent_commits && data.recent_commits.length > 1) {
       console.log(`\n  Derniers commits:`);
-      data.recent_commits.forEach((commit, i) => {
+      data.recent_commits.forEach((commit: { message: string; author: string; date: string }, i: number) => {
         const date = new Date(commit.date).toLocaleDateString('fr-FR');
         console.log(`    ${i + 1}. ${commit.message.split('\n')[0]}`);
         console.log(`       Par ${commit.author} le ${date}`);
@@ -113,7 +113,7 @@ async function testTool4_TopContributors() {
     const data = JSON.parse(result);
 
     console.log(`✅ Résultat - Top ${data.top_contributors.length} contributeurs:\n`);
-    data.top_contributors.forEach((contributor, i) => {
+    data.top_contributors.forEach((contributor: { username: string; contributions: any; }, i: number) => {
       console.log(`  ${i + 1}. ${contributor.username.padEnd(30)} ${contributor.contributions} contributions`);
     });
   } catch (error) {

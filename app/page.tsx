@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { useStreamingAnalysis } from '@/hooks/useStreamingAnalysis';
 import ReactMarkdown from 'react-markdown';
-import { HealthScore } from './components/healthScore';
+import { HealthScore } from './components/HealthScore';
 
 export default function Home() {
   const [repoUrl, setRepoUrl] = useState('');
